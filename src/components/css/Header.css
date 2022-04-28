@@ -1,0 +1,64 @@
+
+
+.header-text {
+    /* font-size: 85px; */
+    font-size: 7vw;
+    color: white;
+    width: 100vw;
+    display: block;
+  
+    text-align: center;
+    position: relative;
+  }
+
+
+  
+
+.img-discover {
+    height: 13vw;
+    width: 10vw;
+    position: absolute;
+    margin: 0 auto;
+    top: -3.2vw;
+    left:20%;
+    /* position: absolute;
+    right: 26%;
+    top: 32%; */
+  }
+  
+  .img-rare {
+    height: 9vw;
+    width: 16vw;
+    position: absolute;
+    left: -8vw;
+    top: 15%;
+    /* position: absolute;
+    right: 26%;
+    top: 32%; */
+  }
+  
+  .img-circle-desc {
+    height: 10vw;
+    width: 10vw;
+    margin-top: 10px;
+    margin-left: 3.5vw;
+    /* position: absolute;
+    left: 0px;
+    top: 16px; */
+    /* position: absolute;
+    right: 26%;
+    top: 32%; */
+  }
+  
+  
+  header span {
+    display: inline;
+  }
+  
+  .text-nft-description {
+    color: rgb(202, 202, 202);
+    margin-top: 2.7vw;
+    font-size: 1.2vw;
+    text-align: justify;
+    margin-left: 0.5vw;
+  }

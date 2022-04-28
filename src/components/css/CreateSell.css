@@ -1,0 +1,43 @@
+.create-sell-container {
+    margin: 30px 9.5vw;
+}
+
+.main-creator{
+    margin-top: 30px;;
+}
+
+.creator-item {
+    height: 25.19vw;
+    width: 25.19vw;
+    text-align: center;
+    background-color: #1A181E;
+    border-radius: 30px;
+    padding: 0px 1.85vw;
+}
+
+.creator-item-image-container {
+    /* margin: 60px 7.14vw; */
+    margin: 2vw 5.28vw;
+
+}
+
+.creatorTitleImg {
+    margin-left: 16px;
+}
+
+.creator-item-image {
+    width: 7.4vw;
+    margin-top: 3vw;
+}
+
+.creator-item-title {
+    color: white;
+    font-size: 1.3vw;
+    margin-top: 3vw;
+}
+
+.creator-item-desc {
+    color: #6D6D6D;
+    font-size: 1.15vw;
+    margin-top: 1vw;
+}

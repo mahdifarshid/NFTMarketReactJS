@@ -1,0 +1,35 @@
+body {
+  background-color: #030005;
+}
+
+/* .App{
+  width: 1368px;margin: 0 auto;
+} */
+
+
+.text-white{
+  color:white;
+}
+.text-left{
+  text-align: left;
+}
+
+
+.btn-more-container{
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: 2vw;
+}
+
+.btn-more{
+  color: white;
+  border-radius: 20px;
+  border: 1px white solid;
+  margin: 0 auto;
+  font-size:1vw;
+  padding: 0.7vw 1.7vw;
+}
+.btn-more:hover{
+  color: #b1b1b1;
+}

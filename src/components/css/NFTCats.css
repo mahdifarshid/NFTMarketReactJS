@@ -1,0 +1,33 @@
+.nftitem-container {
+    margin-top: 225px;
+}
+
+.hotDrops {
+    font-size: 3vw;
+}
+
+.fire {
+    margin-bottom: 32px;
+}
+
+.btn-categories {
+    background-color: #081138;
+    padding: 0.8vw 2.1vw;
+    margin: 0 12px;
+    color: #2E5BFF;
+    border-radius: 16px;
+}
+
+@media screen and (min-width: 480px) {
+    .btn-categories {
+        padding: 0.8vw 1.8vw;
+        margin: 0 6px;
+        font-size: 1.5vw;
+    }
+}
+
+.btn-categories:hover {
+    border: 1px solid #2E5BFE;
+    background-color: #0C2065;
+    color: #2E5BFE;
+}

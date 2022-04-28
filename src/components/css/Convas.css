@@ -1,0 +1,72 @@
+.convas-gradient-right-two {
+  height: 80vw;
+  width: 30vw;
+  right: 0;
+  top: 12vh;
+  z-index: -1;
+  border-radius: 300px 0 0px 300px;
+  position: absolute;
+  background-image: radial-gradient(circle at 89.05% 50.54%, #0A0721 0, #0A0721 12.5%, #0a0721a6 25%, #08082281 37.5%, #0808225b 50%, #08082231 62.5%, #0300054b 75%, #03000550 87.5%, #03000500 100%);
+}
+
+
+
+.convas-gradient-left-one {
+  height: 80vw;
+  width: 30vw;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  border-radius: 0 300px 300px 0;
+  position: absolute;
+  background-image: radial-gradient(circle at 89.05% 70.54%, #03000500 0, #03000550 12.5%, #0300054b 25%, #08082231 37.5%, #0808225b 50%, #08082281 62.5%, #0a0721a6 75%, #15001F 87.5%, #150020 100%);
+}
+
+.convas-gradient-left-three {
+  height: 80vh;
+  width: 30vw;
+  left: 0;
+  top: 170vw;
+  z-index: -1;
+  border-radius: 0 300px 300px 0;
+  position: absolute;
+  background-image: radial-gradient(circle at 89.05% 70.54%, #03000500 0, #03000550 12.5%, #0300054b 25%, #08082231 37.5%, #0808225b 50%, #08082281 62.5%, #0a0721a6 75%, #15001F 87.5%, #150020 100%);
+}
+
+.convas-gradient-right-four {
+  height: 80vw;
+  width: 30vw;
+  right: 0;
+  top: 150vh;
+  z-index: 0;
+  border-radius: 300px 0 0px 300px;
+  position: absolute;
+  background-image: radial-gradient(circle at 89.05% 50.54%, #0A0721 0, #0A0721 12.5%, #0a0721a6 25%, #08082281 37.5%, #0808225b 50%, #08082231 62.5%, #0300054b 75%, #03000550 87.5%, #03000500 100%);
+}
+
+
+
+.convas-star-left-one {
+  position: absolute;
+  top: 50vw;
+  left: 50vw;
+}
+
+.convas-star-right-two {
+  position: absolute;
+  top: 50vw;
+  right: 50vw;
+}
+
+
+.convas-star-left-three {
+  position: absolute;
+  top: 10vw;
+  left: 10vw;
+}
+
+.convas-star-right-four {
+  position: absolute;
+  top: 10vw;
+  right: 10vw;
+}
