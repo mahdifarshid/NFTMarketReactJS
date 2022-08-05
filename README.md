@@ -5,7 +5,7 @@ this is a NFT Market maked by ReactJS
 
 i programming this website design from https://dribbble.com and i dont copy from others anyway
 
-this website do not have a backend and i develope a part of website
+this website do not have a backend and i develop a part of website
 
 
 
