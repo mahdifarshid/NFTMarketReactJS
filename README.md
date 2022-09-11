@@ -5,6 +5,8 @@ this is a NFT Market maked by ReactJS
 
 i programming this website design from https://dribbble.com and i dont copy from others anyway
 
+i dont fork this project source code from any github repoistory...
+
 this website do not have a backend and i develop a part of website
 
 
@@ -40,7 +42,7 @@ To deploy this project run
 
 ```bash
   cd nft-market
-  yarn build
+  yarn run build
   then zip the build folder then upload to your host
   unzip build.zip then use it
 ```
